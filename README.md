@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on big tech companies
-- 📫 How to reach me try my instagram handle
+- 📫 How to reach me : Try my instagram handle
 - 😄 Pronouns: Noting special
 - ⚡ Fun fact: Total life is fun.
 
