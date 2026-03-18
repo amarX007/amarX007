@@ -22,38 +22,42 @@ If you’re not using **Dark Mode**, you know what to do FIRST! 🤗
 
 ### 👋 Hi, I'm Amar.
 
-I am a **passionate Full-Stack Developer** who bridges the gap between complex backend logic and beautiful frontend design. I don't just write code; I build **real-world products**.
+I am a **passionate Full-Stack Developer**, combining knowledge of backend resuources with beautiful frontend designs. I don't just write code; I build Projects - that will be used in **Real-World**.
 
 * 🔭 **Working on:** High-performance E-commerce platforms & AI-integrated web tools.
-* 🧠 **Experience:** Specialized in building **complex calculation editors**, SaaS architectures, and scalable data solutions.
+<!--* 🧠 **Experience:** Specialized in building **complex calculation editors**, SaaS architectures, and scalable data solutions.-->
 * ⚡ **Philosophy:** Discipline, Consistency, and a purpose-driven approach rooted in faith.
 * 🌱 **Learning:** Advanced Cloud Architecture (Docker/AWS), AI Agents, and System Design.
 
 <br>
 
 ## 🛠️ The Arsenal
-*The technologies I rely on to design, build, and ship real-world software.*
+*The technologies I rely on to design, build, and deploy real-world software.*
 
 ### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,mui,vite,figma&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
  <div>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="react_query" width="58" height="58">
+  <!--<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="react_query" width="58" height="58">
      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="react_query" width="58" height="58">
    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="react_query" width="58" height="58">
- 
-   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="react_query" width="58" height="58">
+   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="react_query" width="58" height="58">-->
 </div>
 
+### 🆎 Languages
+<img src="https://skillicons.dev/icons?i=java,c,cpp" />
 
-### 🧠 Backend & Logic
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,firebase,supabase,postman&perline=10" />
-<div>
-   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="react_query" width="58" height="58">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="react_query" width="58" height="58">
-</div>
 
-### ⚙️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,jenkins,netlify&perline=10" />
+
+### ⚙️ Cloud / Hosting 
+<img src="https://skillicons.dev/icons?i=netlify&perline=10" />
+
+<!-- ### Creative tools
+<p align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
+  <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" height="40" alt="Lightroom" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="Premiere Pro" />
+</p> -->
 
 
 </br>
@@ -64,18 +68,19 @@ I am a **passionate Full-Stack Developer** who bridges the gap between complex b
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amarX007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-pro&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarX007&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
   
 </div>
 
 <br>
 
 <p align="center">
-  <i>"Alhamdulillah for everything. Always learning, always building."</i>
+  <i>"A champion is someone, Who gets up when he can't. 🌟"</i>
 </p>
 
+<!-- Wave design - bottom -->
 <p align="center">
  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Animation" width="100%" />
 </p>
