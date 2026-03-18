@@ -13,7 +13,7 @@ If you’re not using **Dark Mode**, you know what to do FIRST! 🤗
 
 </div>
 
-<h2 align="center">Trying to make things, still self-knowledge</h2>
+<h2 align="center">Building things, gaining self-knowledge & deploying in Projects.</h2>
 <div align="center">
   <img width="667" height="32" alt="image" src="https://github.com/user-attachments/assets/eb94f9da-adef-4b31-99a5-1449857a04e9" />
 </div>
