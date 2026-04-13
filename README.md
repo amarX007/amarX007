@@ -9,7 +9,7 @@ If you’re not using **Dark Mode**, you know what to do FIRST! 🤗
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F78166&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amar+Maji;Full-Stack+Web+Developer;Full-Stack+App+Developer;Building+Scalable+Products;"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F78166&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amar+Maji;Full-Stack+Web+Developer;Building+Scalable+Products;"alt="Typing SVG" />
 
 </div>
 
