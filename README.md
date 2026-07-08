@@ -44,7 +44,7 @@ I am a **passionate Full-Stack Developer**, combining knowledge of backend resuo
 </div>
 
 ### 🆎 Languages
-<img src="https://skillicons.dev/icons?i=java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java" />
 
 
 
