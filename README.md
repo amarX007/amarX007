@@ -34,7 +34,7 @@ const steve = {
         "Data Structures & Algorithms",
         "Database Systems"
     ],
-    currently-Building: "Not done yet",
+    currentlyBuilding: "Great thing takes time",
     goal: "Need peace in life & you guys are brilliant to know that how to claim that"
 };
 ```
@@ -122,25 +122,9 @@ Currently, I'm focused on strengthening my fundamentals while building projects.
 
 </div>
 
----
-
-## 🎯 2026 Goals
-
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Build more real-world web applications
-* [ ] Improve JavaScript fundamentals
-* [ ] Learn backend development
-* [ ] Build and deploy full-stack projects
-* [ ] Contribute to open-source projects
-* [ ] Create a strong developer portfolio
-
----
-
 ## 💭 Developer Philosophy
 
-> **"Don't just learn how things work. Build something with them."**
-
-I believe the best way to learn programming is to **build, break, debug, improve, and build again.**
+> **"No philosophy will work until I work for it, and Devs are lazy."**
 
 ---
 
@@ -148,15 +132,15 @@ I believe the best way to learn programming is to **build, break, debug, improve
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/amar-maji-993a79355/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-amar7.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amarmajix7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
