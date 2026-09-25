@@ -8,6 +8,7 @@
 
 <br>
 
+
 <a href="https://portfolio-amar7.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" />
 </a>
@@ -27,60 +28,27 @@
 ```javascript
 const steve = {
     education: "B.Tech in Computer Science & Engineering",
-    role: "Student & Developer",
+    role: "A student & good Storyteller ",
     interests: [
         "Web Development",
         "Data Structures & Algorithms",
-        "Java",
-        "JavaScript",
         "Database Systems"
     ],
-    currentlyBuilding: "RoomCom — Tourism & Hotel Discovery Platform",
-    goal: "Become a strong software developer by building real-world projects"
+    currently-Building: "Not done yet",
+    goal: "Need peace in life & you guys are brilliant to know that how to claim that"
 };
 ```
 
-I enjoy turning ideas into **clean, responsive and useful applications**.
+I enjoy to build **clean, responsive and useful websites**.
 
-Currently, I'm focused on strengthening my fundamentals while building projects that solve practical problems.
-
----
-
-## 🚀 Featured Project
-
-### 🏨 RoomCom — Tourism & Hotel Discovery Platform
-
-A modern tourism website focused on helping users discover destinations, hotels and travel experiences through a clean and responsive interface.
-
-**What I'm working on:**
-
-* 🌍 Tourism & destination discovery
-* 🏨 Hotel and accommodation sections
-* 🔎 Search experience
-* 📱 Fully responsive design
-* ✨ Modern UI interactions
-* 🎨 Interactive cards and overlays
-* 🧭 Responsive navigation
-* ⚡ JavaScript-based interactions
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
-<br>
-
-<a href="YOUR_ROOMCOM_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
----
+Currently, I'm focused on strengthening my fundamentals while building projects.
 
 ## ⚡ Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
 ### Programming & Database
@@ -92,7 +60,7 @@ A modern tourism website focused on helping users discover destinations, hotels 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,netlify" />
 </p>
 
 ---
