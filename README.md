@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Steve
+# 👋 Hey, Amar this side
 
 ### 💻 Computer Science Student | Web Developer | Problem Solver
 
