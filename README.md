@@ -11,10 +11,10 @@
 <a href="https://portfolio-amar7.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/amar-maji-993a79355/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amarmajix7@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
 </a>
 
