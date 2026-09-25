@@ -23,7 +23,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Who I Am
 
 ```javascript
 const steve = {
