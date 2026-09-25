@@ -84,7 +84,7 @@ Currently, I'm focused on strengthening my fundamentals while building projects.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img src="https://streak-stats.demolab.com?user=amarX007&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -117,6 +117,6 @@ Currently, I'm focused on strengthening my fundamentals while building projects.
 
 <img src="https://komarev.com/ghpvc/?username=amarX007&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ There we go now, have a Good Day!
 
 </div>
