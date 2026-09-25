@@ -69,14 +69,14 @@ Currently, I'm focused on strengthening my fundamentals while building projects.
 
 ```text
 ┌──────────────────────────────────────────┐
-│                                          │
-│  🌐 Advanced JavaScript                  │
-│  🧠 Data Structures & Algorithms        │
-│  ☕ Java                                 │
-│  🗄️ Database Management Systems          │
-│  🎨 Advanced Responsive Design           │
-│  🚀 Full-Stack Development               │
-│                                          │
+│                                           │
+│  🌐 Advanced JavaScript                   │
+│  🧠 Data Structures & Algorithms           │
+│  ☕ Java                                    │
+│  🗄️ Database Management Systems             │
+│  🎨 Advanced Responsive Design             │
+│  🚀 Full-Stack Development                │
+│                                           │
 └──────────────────────────────────────────┘
 ```
 
