@@ -86,9 +86,11 @@ Currently, I'm focused on strengthening my fundamentals while building projects.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amarX007
+&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarX007
+&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF" />
 
 </div>
 
