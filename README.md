@@ -80,20 +80,6 @@ Currently, I'm focused on strengthening my fundamentals while building projects.
 └──────────────────────────────────────────┘
 ```
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amarX007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarX007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -104,23 +90,6 @@ Currently, I'm focused on strengthening my fundamentals while building projects.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
 
 ## 💭 Developer Philosophy
 
@@ -146,7 +115,7 @@ Currently, I'm focused on strengthening my fundamentals while building projects.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=amarX007&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 ### ⭐ Thanks for visiting my profile!
 
