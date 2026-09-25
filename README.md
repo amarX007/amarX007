@@ -1,86 +1,201 @@
 <div align="center">
 
-If you’re not using **Dark Mode**, then what are you doing? Do it fast! 🤗
+# 👋 Hey, I'm Steve
 
-</div>
+### 💻 Computer Science Student | Web Developer | Problem Solver
 
-
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0cb4e2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amar+Maji;Full-Stack+Web+Developer;Java+programmer;"alt="Typing SVG" />
-
-</div>
-
-<h2 align="center">Building things, gaining self-knowledge & deploying in Projects.</h2>
-<div align="center">
-  <img width="667" height="32" alt="image" src="https://github.com/user-attachments/assets/eb94f9da-adef-4b31-99a5-1449857a04e9" />
-</div>
-
-
-
-### 👋 Hi, I'm Amar.
-
-I am a **passionate Full-Stack Developer**, combining knowledge of backend resuources with beautiful frontend designs. I don't just write code; I build Projects - that will be used in **Real-World**.
-
-* 🔭 **Working on:** High-performance E-commerce platforms & AI-integrated web tools.
-<!--* 🧠 **Experience:** Specialized in building **complex calculation editors**, SaaS architectures, and scalable data solutions.-->
-* ⚡ **Philosophy:** Discipline, Consistency, and a purpose-driven approach rooted in faith.
-* 🌱 **Learning:** Advanced Cloud Architecture (Docker/AWS), AI Agents, and System Design.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+things+for+the+web+%F0%9F%9A%80;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Exploring+JavaScript%2C+Java+%26+SQL+%E2%9A%A1;Turning+ideas+into+real+projects+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
 
-## 🛠️ The Arsenal
-*The technologies I rely on to design, build, and deploy real-world software.*
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+</a>
 
-### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
- <div>
-  <!--<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="react_query" width="58" height="58">
-     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="react_query" width="58" height="58">
-   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="react_query" width="58" height="58">
-   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="react_query" width="58" height="58">-->
 </div>
 
-### 🆎 Languages
-<img src="https://skillicons.dev/icons?i=java" />
+---
 
+## 🧑‍💻 About Me
 
+```javascript
+const steve = {
+    education: "B.Tech in Computer Science & Engineering",
+    role: "Student & Developer",
+    interests: [
+        "Web Development",
+        "Data Structures & Algorithms",
+        "Java",
+        "JavaScript",
+        "Database Systems"
+    ],
+    currentlyBuilding: "RoomCom — Tourism & Hotel Discovery Platform",
+    goal: "Become a strong software developer by building real-world projects"
+};
+```
 
-### ⚙️ Cloud / Hosting 
-<img src="https://skillicons.dev/icons?i=netlify&perline=10" />
+I enjoy turning ideas into **clean, responsive and useful applications**.
 
-<!-- ### Creative tools
-<p align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
-  <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" height="40" alt="Lightroom" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="Premiere Pro" />
-</p> -->
+Currently, I'm focused on strengthening my fundamentals while building projects that solve practical problems.
 
+---
 
-</br>
+## 🚀 Featured Project
 
+### 🏨 RoomCom — Tourism & Hotel Discovery Platform
 
-## 📊 Github Stats
-</br>
+A modern tourism website focused on helping users discover destinations, hotels and travel experiences through a clean and responsive interface.
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=amarX007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarX007&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-  
-</div>
+**What I'm working on:**
+
+* 🌍 Tourism & destination discovery
+* 🏨 Hotel and accommodation sections
+* 🔎 Search experience
+* 📱 Fully responsive design
+* ✨ Modern UI interactions
+* 🎨 Interactive cards and overlays
+* 🧭 Responsive navigation
+* ⚡ JavaScript-based interactions
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
 
 <br>
 
-<p align="center">
-  <i>"A champion is someone, Who gets up when he can't. 🌟"</i>
+<a href="YOUR_ROOMCOM_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<!-- Wave design - bottom -->
-<p align="center">
- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Animation" width="100%" />
+### Programming & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,mysql" />
 </p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│  🌐 Advanced JavaScript                  │
+│  🧠 Data Structures & Algorithms        │
+│  ☕ Java                                 │
+│  🗄️ Database Management Systems          │
+│  🎨 Advanced Responsive Design           │
+│  🚀 Full-Stack Development               │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Strengthen Data Structures & Algorithms
+* [ ] Build more real-world web applications
+* [ ] Improve JavaScript fundamentals
+* [ ] Learn backend development
+* [ ] Build and deploy full-stack projects
+* [ ] Contribute to open-source projects
+* [ ] Create a strong developer portfolio
+
+---
+
+## 💭 Developer Philosophy
+
+> **"Don't just learn how things work. Build something with them."**
+
+I believe the best way to learn programming is to **build, break, debug, improve, and build again.**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
