@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-amar7.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" />
 </a>
 <a href="YOUR_LINKEDIN_URL">
